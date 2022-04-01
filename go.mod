@@ -48,7 +48,7 @@ require (
 	github.com/ukfast/sdk-go v1.4.34
 	github.com/ultradns/ultradns-sdk-go v0.0.0-20200616202852-e62052662f60
 	github.com/vinyldns/go-vinyldns v0.0.0-20200211145900-fe8a3d82e556
-	github.com/vultr/govultr/v2 v2.14.1
+	github.com/vultr/govultr/v2 v2.14.2
 	go.etcd.io/etcd/api/v3 v3.5.0
 	go.etcd.io/etcd/client/v3 v3.5.0
 	go.uber.org/ratelimit v0.2.0
